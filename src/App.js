@@ -47,7 +47,7 @@ const App = () => {
               <u>Description about me:</u>
             </h3>
             <p>
-              Hey! I am Krishna, 20 Years of age and currently pursuing my
+              Hey! I am Kalpana Tolwani, 20 Years of age and currently pursuing my
               B.Tech Degree from VIT Bhopal in CSE-Core. I have been since the
               beginning of my time here on earth, fascinated by these machines
               <br />
